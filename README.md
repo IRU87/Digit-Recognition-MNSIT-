@@ -10,7 +10,7 @@ So far are the supported models:
   - Fully Connected Neural Network
   - Convolutional Neural Network
 
-The tree, forest and SVM models are based on the scipy module, while the neural networks are based on pytorch.
+The tree, forest and SVM models are based on the sklearn module, while the neural networks are based on pytorch.
 
 
 TODO:
